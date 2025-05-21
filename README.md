@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./G.png" alt="Gjyl logo" width="140"/>
+</p>
+
 # Gjyl Demo
 
 This is a public-facing demo of **Gjyl** — a cross-platform, real-time social platform focused on secure communication and content monetization.
